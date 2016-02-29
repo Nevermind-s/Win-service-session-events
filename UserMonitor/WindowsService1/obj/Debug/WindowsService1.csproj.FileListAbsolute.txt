@@ -1,0 +1,16 @@
+c:\users\salim\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+c:\users\salim\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+c:\users\salim\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+c:\users\salim\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+c:\users\salim\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+c:\users\salim\documents\visual studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\Salim\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\Salim\Documents\Visual Studio 2015\Projects\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
+C:\Users\Salim\Desktop\UserMonitor\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\Salim\Desktop\UserMonitor\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\Salim\Desktop\UserMonitor\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\Salim\Desktop\UserMonitor\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Salim\Desktop\UserMonitor\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\Salim\Desktop\UserMonitor\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+C:\Users\Salim\Desktop\UserMonitor\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+C:\Users\Salim\Desktop\UserMonitor\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.Cache
